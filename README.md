@@ -1,4 +1,4 @@
-<h3 align="center">yo I work on stuff</h3>
+<h3 align="center">yo I work on cool stuff</h3>
 
 <h3 align="center">contact me:</h3>
 <p align="center">
