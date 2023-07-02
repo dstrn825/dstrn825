@@ -3,7 +3,7 @@
 <h3 align="center">contact me:</h3>
 <p align="center">
 <a target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dstrn" height="30" width="40" />dstrn</a>
-<a target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="dstrn#3118" height="30" width="40" />dstrn#3118</a>
+<a target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="dstrn#3118" height="30" width="40" />dstrn</a>
 
 </p>
 
