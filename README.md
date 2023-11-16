@@ -2,7 +2,7 @@
     <a href="https://dstrn.xyz"><img src="banner-min.gif"/></a>
 </h1>
 
-<h3 align="center">owner of <a href="https://dstrn.xyz">dstrn.xyz</a> and all it's branches<br/>dstrn.xyzとそのすべてのブランチのオーナー。</h3>
+<h3 align="center">owner of <a href="https://dstrn.xyz">dstrn.xyz</a> and all its branches<br/>dstrn.xyzとそのすべてのブランチのオーナー。</h3>
 
 
 <p align="center">
